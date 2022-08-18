@@ -40,7 +40,7 @@ composer require kaiopiola/bringbackmix
 
 Once everything is installed, you can run the following command and it will automatically set your project to the old Laravel Webpack standard:
 
-``` php
+```console
 php vendor/kaiopiola/bringbackmix/run.php
 ```
 
