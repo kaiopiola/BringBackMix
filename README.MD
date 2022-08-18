@@ -1,12 +1,8 @@
 # Keygen
 
-<!-- 
-
 <a target="_blank" href="https://packagist.org/packages/kaiopiola/bringbackmix" ><img src="https://img.shields.io/packagist/dt/kaiopiola/bringbackmix?color=%2300FFF" /></a>
 <a target="_blank" href="https://packagist.org/packages/kaiopiola/bringbackmix" ><img src="https://img.shields.io/packagist/v/kaiopiola/bringbackmix?color=%23888888&label=version" /></a>
 <a target="_blank" href="https://packagist.org/packages/kaiopiola/bringbackmix" ><img src="https://img.shields.io/packagist/php-v/kaiopiola/bringbackmix" /></a> 
-
--->
 
 
 ***This package is under development and may exhibit unexpected behavior while using it, please report any bugs or errors you find when using this solution, so that we can make it the best possible for your use!***
