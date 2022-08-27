@@ -1,5 +1,12 @@
 # BringBackMix
 
+# ⚠️PACKAGE ABANDONED!⚠️
+Instead of using it, please read the following tutorial for how to getting ready for using the new Laravel VITE:
+
+[Laravel Vite Initial Settings](https://www.kaiopiola.dev/2022/08/laravel-vite.html)
+
+<hr>
+
 <a target="_blank" href="https://packagist.org/packages/kaiopiola/bringbackmix" ><img src="https://img.shields.io/packagist/dt/kaiopiola/bringbackmix?color=%2300FFF" /></a>
 <a target="_blank" href="https://packagist.org/packages/kaiopiola/bringbackmix" ><img src="https://img.shields.io/packagist/v/kaiopiola/bringbackmix?color=%23888888&label=version" /></a>
 <a target="_blank" href="https://packagist.org/packages/kaiopiola/bringbackmix" ><img src="https://img.shields.io/packagist/php-v/kaiopiola/bringbackmix" /></a> 
